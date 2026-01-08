@@ -14,3 +14,5 @@ The React Compiler is not enabled on this template because of its impact on dev 
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+# TripByte-Hotel
+A full-stack Hotel Booking Management System built with React and Spring Boot. Features include dynamic room browsing, real-time availability validation, secure user authentication, and an admin dashboard for room management.
